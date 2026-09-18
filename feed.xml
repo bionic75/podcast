@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Histoire au Collège</title>
+    <link>https://bionic75.github.io/podcast/feed.xml</link>
+    <description>"Histoire au collège" est un podcast pédagogique qui revisite les grands chapitres du programme d'histoire, à hauteur de collégien. Chaque épisode déroule un événement, une civilisation ou une période clé, expliqués simplement, sans jargon inutile, mais sans jamais simplifier à l'excès. Le ton se veut vivant et accessible, mêlant récit, anecdotes marquantes et mise en contexte, pour donner du sens aux dates et aux faits appris en classe. Pensé pour les élèves comme pour les curieux, il peut s'écouter en complément des cours, en révision avant un contrôle, ou simplement pour le plaisir de comprendre le monde d'hier. Une manière différente d'aborder l'histoire, entre rigueur et envie de raconter.</description>
+    <language>fr</language>
+    <atom:link href="https://bionic75.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Nicolas Billaudé</itunes:author>
+    <itunes:owner>
+      <itunes:name>Nicolas Billaudé</itunes:name>
+      <itunes:email>billaude@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bionic75.github.io/podcast/cover/show.png" />
+    <itunes:category text="History" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:guid>0a969001-1011-42c6-b94e-221b14e271a9</podcast:guid>
+    <item>
+      <title>Podcast Traite négrière en Afrique par les arabes</title>
+      <description>Cet épisode explore un pan méconnu de l'histoire des traites négrières : la traite arabo-musulmane, qui s'est déployée pendant plus de treize siècles à travers le Sahara et l'océan Indien. Nicolas et Sophie retracent les grands axes de ce commerce transcontinental, des caravanes de Tombouctou aux ports de Zanzibar, à destination du monde arabo-musulman. L'épisode aborde la composition démographique particulière de cette traite, marquée par la prédominance des femmes et la pratique de la castration, qui explique en partie sa faible visibilité mémorielle aujourd'hui. Il évoque également les débats historiographiques autour de sa qualification, entre système esclavagiste de longue durée et génocide selon certains chercheurs. Un éclairage essentiel sur une histoire dont les abolitions tardives, jusqu'au XXe siècle, résonnent encore avec notre époque contemporaine.</description>
+      <content:encoded>Cet épisode explore un pan méconnu de l'histoire des traites négrières : la traite arabo-musulmane, qui s'est déployée pendant plus de treize siècles à travers le Sahara et l'océan Indien. Nicolas et Sophie retracent les grands axes de ce commerce transcontinental, des caravanes de Tombouctou aux ports de Zanzibar, à destination du monde arabo-musulman. L'épisode aborde la composition démographique particulière de cette traite, marquée par la prédominance des femmes et la pratique de la castration, qui explique en partie sa faible visibilité mémorielle aujourd'hui. Il évoque également les débats historiographiques autour de sa qualification, entre système esclavagiste de longue durée et génocide selon certains chercheurs. Un éclairage essentiel sur une histoire dont les abolitions tardives, jusqu'au XXe siècle, résonnent encore avec notre époque contemporaine.</content:encoded>
+      <enclosure url="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/episode.mp3" length="1199660" type="audio/mpeg" />
+      <guid isPermaLink="false">0bf2405d-7aa3-4328-a049-90b93c6dfb2e</guid>
+      <pubDate>Fri, 18 Sep 2026 22:00:53 GMT</pubDate>
+      <itunes:duration>00:02:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/chapters.json" type="application/json+chapters" />
+      <podcast:transcript url="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/transcript.srt" type="application/x-subrip" />
+    </item>
+  </channel>
+</rss>
