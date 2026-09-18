@@ -11,7 +11,7 @@
       <itunes:name>Nicolas Billaudé</itunes:name>
       <itunes:email>petitgibus@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://bionic75.github.io/podcast/cover/show.png" />
+    <itunes:image href="https://bionic75.github.io/podcast/cover/show.jpg" />
     <itunes:category text="History" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -27,6 +27,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:image href="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/cover.jpg" />
       <podcast:chapters url="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/chapters.json" type="application/json+chapters" />
       <podcast:transcript url="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/transcript.srt" type="application/x-subrip" />
     </item>
