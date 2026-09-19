@@ -6,7 +6,7 @@
     <description>"Histoire au collège" est un podcast pédagogique qui revisite les grands chapitres du programme d'histoire, à hauteur de collégien. Chaque épisode déroule un événement, une civilisation ou une période clé, expliqués simplement, sans jargon inutile, mais sans jamais simplifier à l'excès. Le ton se veut vivant et accessible, mêlant récit, anecdotes marquantes et mise en contexte, pour donner du sens aux dates et aux faits appris en classe. Pensé pour les élèves comme pour les curieux, il peut s'écouter en complément des cours, en révision avant un contrôle, ou simplement pour le plaisir de comprendre le monde d'hier. Une manière différente d'aborder l'histoire, entre rigueur et envie de raconter.</description>
     <language>fr</language>
     <atom:link href="https://bionic75.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>Nicolas Billaudé</itunes:author>
+    <itunes:author>Nicolas B.</itunes:author>
     <itunes:owner>
       <itunes:name>Nicolas Billaudé</itunes:name>
       <itunes:email>petitgibus@gmail.com</itunes:email>
@@ -17,7 +17,7 @@
     <itunes:type>episodic</itunes:type>
     <podcast:guid>0a969001-1011-42c6-b94e-221b14e271a9</podcast:guid>
     <item>
-      <title>Podcast Traite négrière en Afrique par les arabes</title>
+      <title>De la traite négrière en Afrique par les Arabes</title>
       <description>Cet épisode explore un pan méconnu de l'histoire des traites négrières : la traite arabo-musulmane, qui s'est déployée pendant plus de treize siècles à travers le Sahara et l'océan Indien. Nicolas et Sophie retracent les grands axes de ce commerce transcontinental, des caravanes de Tombouctou aux ports de Zanzibar, à destination du monde arabo-musulman. L'épisode aborde la composition démographique particulière de cette traite, marquée par la prédominance des femmes et la pratique de la castration, qui explique en partie sa faible visibilité mémorielle aujourd'hui. Il évoque également les débats historiographiques autour de sa qualification, entre système esclavagiste de longue durée et génocide selon certains chercheurs. Un éclairage essentiel sur une histoire dont les abolitions tardives, jusqu'au XXe siècle, résonnent encore avec notre époque contemporaine.</description>
       <content:encoded>Cet épisode explore un pan méconnu de l'histoire des traites négrières : la traite arabo-musulmane, qui s'est déployée pendant plus de treize siècles à travers le Sahara et l'océan Indien. Nicolas et Sophie retracent les grands axes de ce commerce transcontinental, des caravanes de Tombouctou aux ports de Zanzibar, à destination du monde arabo-musulman. L'épisode aborde la composition démographique particulière de cette traite, marquée par la prédominance des femmes et la pratique de la castration, qui explique en partie sa faible visibilité mémorielle aujourd'hui. Il évoque également les débats historiographiques autour de sa qualification, entre système esclavagiste de longue durée et génocide selon certains chercheurs. Un éclairage essentiel sur une histoire dont les abolitions tardives, jusqu'au XXe siècle, résonnent encore avec notre époque contemporaine.</content:encoded>
       <enclosure url="https://bionic75.github.io/podcast/episodes/0bf2405d-7aa3-4328-a049-90b93c6dfb2e/episode.mp3" length="2399276" type="audio/mpeg" />
