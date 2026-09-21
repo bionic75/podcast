@@ -1,0 +1,219 @@
+1
+00:00:00,000 --> 00:00:06,840
+Camille: Bienvenue dans ce nouvel épisode. Aujourd'hui, on démonte un système qui a façonné trois continents pendant plus de trois siècles.
+
+2
+00:00:06,390 --> 00:00:09,510
+Thomas: Le commerce triangulaire. Accrochez-vous, on embarque.
+
+3
+00:00:10,410 --> 00:00:15,330
+Camille: Thomas, si je te demande d'imaginer un triangle tracé sur l'océan Atlantique, à quoi tu penses ?
+
+4
+00:00:15,630 --> 00:00:26,780
+Thomas: Je pense à trois côtés bien réels. Un qui part des ports européens, Nantes, Bordeaux, Liverpool, Lisbonne. Un autre qui longe les côtes d'Afrique de l'Ouest. Et un dernier qui traverse les Caraïbes et les Amériques.
+
+5
+00:00:27,080 --> 00:00:29,660
+Camille: Et pendant combien de temps ce triangle a existé ?
+
+6
+00:00:29,960 --> 00:00:36,090
+Thomas: Plus de trois siècles, du seizième au dix-neuvième siècle. Il a fait la fortune de l'Europe, et il a saigné l'Afrique.
+
+7
+00:00:37,590 --> 00:00:41,470
+Camille: Pour comprendre comment ça démarre, il faut remonter à quand exactement ?
+
+8
+00:00:41,770 --> 00:00:52,470
+Thomas: À la fin du quinzième siècle. Christophe Colomb découvre l'Amérique en 1492, et très vite l'Espagne, le Portugal, puis la France, l'Angleterre et les Pays-Bas se lancent dans la colonisation.
+
+9
+00:00:52,770 --> 00:00:57,640
+Camille: Et sur place, ils trouvent des terres immenses, un climat idéal pour les cultures tropicales.
+
+10
+00:00:57,940 --> 00:01:13,660
+Thomas: Exactement, mais il leur manque un ingrédient essentiel : la main-d'œuvre. Les populations amérindiennes sont décimées par des maladies venues d'Europe, variole, grippe, rougeole. En quelques décennies, certaines régions perdent jusqu'à quatre-vingt-dix pour cent de leur population indigène.
+
+11
+00:01:13,960 --> 00:01:16,280
+Camille: Donc les colons se tournent vers l'Afrique.
+
+12
+00:01:16,580 --> 00:01:27,450
+Thomas: Voilà. C'est exactement là que naît l'idée du commerce triangulaire : aller chercher cette main-d'œuvre sur les côtes africaines pour exploiter les plantations de canne à sucre, de coton, de tabac, de café.
+
+13
+00:01:30,426 --> 00:01:33,546
+Camille: Suivons ce triangle. Premier virage, direction l'Afrique.
+
+14
+00:01:33,846 --> 00:01:44,766
+Thomas: Les navires négriers quittent Nantes, Bordeaux, La Rochelle, Liverpool, Bristol, Lisbonne, chargés de marchandises manufacturées. Des tissus, des armes à feu, de la poudre, de l'alcool, des perles de verre.
+
+15
+00:01:45,066 --> 00:01:47,996
+Camille: Ces marchandises ne sont pas vendues contre de l'argent ?
+
+16
+00:01:48,296 --> 00:01:59,476
+Thomas: Non, elles servent de monnaie d'échange. Sur les côtes d'Afrique de l'Ouest, le golfe de Guinée, le royaume du Dahomey, la Côte-de-l'Or, le Sénégal, les négriers européens négocient avec des intermédiaires locaux.
+
+17
+00:01:59,776 --> 00:02:00,766
+Camille: C'est-à-dire ?
+
+18
+00:02:01,066 --> 00:02:09,776
+Thomas: Des royaumes africains, des marchands, parfois des chefs de guerre, qui capturent ou achètent des populations issues de conflits, de raids, ou de dettes dans l'arrière-pays.
+
+19
+00:02:10,076 --> 00:02:13,926
+Camille: On entend souvent dire que la traite n'a pas été qu'une affaire européenne.
+
+20
+00:02:14,226 --> 00:02:34,906
+Thomas: C'est vrai, et il faut le rappeler : ce système n'aurait pas pu fonctionner à cette échelle sans la participation active de certains pouvoirs africains, qui y trouvaient un intérêt économique, des armes contre des captifs. Ça ne diminue en rien la responsabilité européenne, qui a créé la demande et organisé la déportation industrielle, mais ça fait partie de la complexité du phénomène.
+
+21
+00:02:35,206 --> 00:02:38,416
+Camille: Et une fois capturés, que deviennent ces hommes et ces femmes ?
+
+22
+00:02:38,716 --> 00:02:45,406
+Thomas: Ils sont entassés dans des forts-entrepôts, comme celui de Gorée au Sénégal ou d'Elmina au Ghana, en attendant l'embarquement.
+
+23
+00:02:46,369 --> 00:02:50,609
+Camille: Deuxième étape, la plus tragique. Les historiens l'appellent le Middle Passage.
+
+24
+00:02:50,909 --> 00:03:03,469
+Thomas: Le passage du milieu, oui. Les captifs sont entassés dans les cales, enchaînés, dans des conditions d'hygiène effroyables. Un navire pouvait transporter plus de quatre cents personnes, dans un espace prévu pour une fraction de ce nombre.
+
+25
+00:03:03,769 --> 00:03:05,719
+Camille: Combien de temps durait la traversée ?
+
+26
+00:03:06,019 --> 00:03:08,699
+Thomas: Entre six et dix semaines, selon les vents et les routes.
+
+27
+00:03:10,699 --> 00:03:12,699
+Camille: Et en termes de chiffres, qu'est-ce qu'on sait ?
+
+28
+00:03:12,999 --> 00:03:27,799
+Thomas: Les historiens estiment qu'environ douze millions et demi d'Africains ont été déportés vers les Amériques entre le quinzième et le dix-neuvième siècle. Près d'un million huit cent mille sont morts pendant la traversée elle-même, de maladie, de malnutrition, ou jetés par-dessus bord.
+
+29
+00:03:28,099 --> 00:03:31,559
+Camille: Et ça ne compte même pas les morts en Afrique, pendant les razzias.
+
+30
+00:03:31,859 --> 00:03:43,269
+Thomas: Exactement. Il y a eu des révoltes à bord, la plus connue reste celle du navire espagnol La Amistad en 1839. Mais elle reste l'exception dans un système où la déshumanisation était organisée méthodiquement.
+
+31
+00:03:43,269 --> 00:03:46,669
+Camille: Troisième et dernier côté du triangle. On arrive aux Amériques.
+
+32
+00:03:47,931 --> 00:03:59,511
+Thomas: Les survivants sont vendus aux enchères, à Saint-Domingue, en Martinique, en Guadeloupe, ou à Salvador de Bahia au Brésil. Ils sont envoyés dans les plantations pour produire le sucre, le café, le coton, le tabac, l'indigo.
+
+33
+00:03:59,811 --> 00:04:02,021
+Camille: Et ces marchandises repartent vers l'Europe.
+
+34
+00:04:02,321 --> 00:04:12,021
+Thomas: C'est là que le triangle se referme. Le sucre des Antilles remplit les cales à destination de Nantes ou de Bristol, il est raffiné dans les ports européens, puis revendu dans toute l'Europe.
+
+35
+00:04:12,321 --> 00:04:14,731
+Camille: Et ça a rendu certains ports vraiment riches.
+
+36
+00:04:15,031 --> 00:04:25,741
+Thomas: Immensément riches. Nantes doit une grande partie de son essor architectural du dix-huitième siècle à la traite, ses hôtels particuliers, ses places. Même chose pour Liverpool, Bordeaux, ou Lisbonne.
+
+37
+00:04:28,537 --> 00:04:32,867
+Camille: Si on dresse la liste des gagnants et des perdants de ce système, à quoi ça ressemble ?
+
+38
+00:04:33,167 --> 00:04:48,797
+Thomas: Côté gagnants, les armateurs négriers européens, des compagnies comme la Compagnie française des Indes occidentales ou la Royal African Company anglaise, les planteurs coloniaux, les raffineurs de sucre, les banquiers qui finançaient les expéditions, et certains royaumes africains côtiers.
+
+39
+00:04:49,097 --> 00:04:50,517
+Camille: Et côté perdants ?
+
+40
+00:04:50,817 --> 00:05:06,927
+Thomas: D'abord et avant tout, les millions d'Africains déportés et réduits en esclavage, et leurs descendants nés en esclavage dans les colonies. Mais aussi, à plus long terme, les sociétés africaines de l'intérieur, déstabilisées par des siècles de razzias et de guerres provoquées pour capturer des esclaves.
+
+41
+00:05:07,227 --> 00:05:11,307
+Camille: Est-ce que ça a eu des conséquences économiques durables sur le continent africain ?
+
+42
+00:05:11,607 --> 00:05:23,597
+Thomas: Certains historiens estiment que oui, que ce commerce a durablement affaibli le développement économique et politique de nombreuses régions d'Afrique de l'Ouest et centrale. C'est un sujet qui reste débattu et étudié aujourd'hui.
+
+43
+00:05:28,692 --> 00:05:31,162
+Camille: Comment ce système finit-il par s'effondrer ?
+
+44
+00:05:31,462 --> 00:05:45,142
+Thomas: Plusieurs facteurs se combinent à partir de la fin du dix-huitième siècle. D'abord les révoltes d'esclaves, la plus marquante étant la révolution haïtienne, entre 1791 et 1804, qui aboutit à la première République noire indépendante.
+
+45
+00:05:45,442 --> 00:05:47,002
+Camille: Et du côté européen ?
+
+46
+00:05:47,302 --> 00:05:59,332
+Thomas: Les mouvements abolitionnistes se renforcent, portés par des figures comme William Wilberforce en Angleterre ou l'Abbé Grégoire en France. Et l'esclavage devient progressivement moins rentable face à l'industrialisation.
+
+47
+00:05:59,632 --> 00:06:01,732
+Camille: Donne-nous quelques repères de dates.
+
+48
+00:06:02,032 --> 00:06:17,932
+Thomas: L'Angleterre interdit la traite en 1807. La France l'abolit une première fois en 1794, la rétablit sous Napoléon en 1802, avant une abolition définitive en 1848. Le Brésil, dernier pays des Amériques à abolir l'esclavage, ne le fait qu'en 1888.
+
+49
+00:06:21,763 --> 00:06:25,403
+Camille: Alors Thomas, pourquoi ce triangle nous concerne encore aujourd'hui ?
+
+50
+00:06:25,703 --> 00:06:41,483
+Thomas: Parce qu'il a façonné le monde moderne. La démographie des Amériques, la richesse de certaines villes portuaires européennes, les inégalités structurelles entre continents, et les identités culturelles de millions de personnes aujourd'hui, des Caraïbes au Brésil en passant par les États-Unis.
+
+51
+00:06:41,783 --> 00:06:44,453
+Camille: Et ça éclaire aussi des débats très contemporains.
+
+52
+00:06:44,753 --> 00:06:55,443
+Thomas: Les réparations, la restitution d'œuvres d'art pillées, la reconnaissance mémorielle, comme la loi Taubira en France, qui reconnaît en 2001 la traite et l'esclavage comme crime contre l'humanité.
+
+53
+00:06:57,207 --> 00:07:09,527
+Camille: La prochaine fois que vous visiterez Nantes, Bordeaux ou Liverpool, et que vous admirerez leurs façades du dix-huitième siècle, souvenez-vous : derrière cette pierre blonde, il y a un triangle tracé sur l'océan, et le prix payé pour le tracer.
+
+54
+00:07:11,566 --> 00:07:13,056
+Thomas: Merci de nous avoir écoutés.
+
+55
+00:07:13,056 --> 00:07:15,106
+Camille: À bientôt pour un prochain épisode.

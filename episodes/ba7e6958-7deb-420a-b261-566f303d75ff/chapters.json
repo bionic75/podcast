@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 10.41,
+      "title": "Un système, trois continents"
+    },
+    {
+      "startTime": 90.43,
+      "title": "Le triangle en mouvement"
+    },
+    {
+      "startTime": 166.37,
+      "title": "La traversée"
+    },
+    {
+      "startTime": 223.27,
+      "title": "Dernier virage : vers l'Europe"
+    },
+    {
+      "startTime": 268.54,
+      "title": "Qui gagne, qui perd"
+    },
+    {
+      "startTime": 328.69,
+      "title": "La fin d'un système"
+    },
+    {
+      "startTime": 381.76,
+      "title": "Ce qu'il en reste"
+    }
+  ]
+}
