@@ -25,6 +25,8 @@
       <pubDate>Mon, 21 Sep 2026 22:03:30 GMT</pubDate>
       <itunes:duration>00:07:20</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:image href="https://bionic75.github.io/podcast/episodes/ba7e6958-7deb-420a-b261-566f303d75ff/cover.jpg" />
       <podcast:chapters url="https://bionic75.github.io/podcast/episodes/ba7e6958-7deb-420a-b261-566f303d75ff/chapters.json" type="application/json+chapters" />
       <podcast:transcript url="https://bionic75.github.io/podcast/episodes/ba7e6958-7deb-420a-b261-566f303d75ff/transcript.srt" type="application/x-subrip" />
