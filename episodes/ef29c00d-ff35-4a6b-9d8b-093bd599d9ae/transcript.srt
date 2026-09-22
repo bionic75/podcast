@@ -1,0 +1,91 @@
+1
+00:00:00,000 --> 00:00:04,360
+Nicolas: Bienvenue dans "Histoire au collège". Aujourd'hui, direction le XVIIIe siècle.
+
+2
+00:00:04,660 --> 00:00:08,860
+Sophie: Le siècle des Lumières, premier épisode d'une série en deux parties.
+
+3
+00:00:09,769 --> 00:00:12,009
+Voix off: Une nouvelle façon de penser le monde
+
+4
+00:00:12,309 --> 00:00:18,429
+Voix off: Paris, milieu du XVIIIe siècle. Dans les salons, on discute librement de sciences, de politique, de religion.
+
+5
+00:00:18,729 --> 00:00:24,329
+Sophie: Le siècle des Lumières commence par une remise en question de l'autorité et de la tradition.
+
+6
+00:00:24,629 --> 00:00:29,509
+Nicolas: Les penseurs veulent comprendre le monde par la raison plutôt que par la foi ou la superstition.
+
+7
+00:00:30,509 --> 00:00:38,109
+Sophie: Cette confiance dans la raison s'appuie sur les découvertes scientifiques du siècle précédent, notamment celles de Newton.
+
+8
+00:00:38,409 --> 00:00:44,409
+Nicolas: Isaac Newton avait démontré que l'univers obéit à des lois mathématiques universelles, observables et vérifiables.
+
+9
+00:00:44,709 --> 00:00:49,989
+Sophie: Si la nature obéit à des lois rationnelles, pourquoi pas la société humaine elle-même ?
+
+10
+00:00:51,505 --> 00:00:53,665
+Voix off: Les grands penseurs et leurs idées
+
+11
+00:00:53,965 --> 00:00:59,575
+Nicolas: Voltaire s'impose comme l'une des figures majeures, avec son combat pour la tolérance et la liberté d'expression.
+
+12
+00:00:59,875 --> 00:01:06,345
+Sophie: Montesquieu, dans "De l'Esprit des lois", développe l'idée de séparation des pouvoirs pour éviter les abus.
+
+13
+00:01:06,645 --> 00:01:12,095
+Nicolas: Rousseau, lui, s'interroge sur l'origine des inégalités et sur ce que serait un contrat social juste.
+
+14
+00:01:12,395 --> 00:01:19,275
+Voix off: Trois hommes, trois visions différentes, mais une même conviction : la raison doit éclairer l'organisation des sociétés.
+
+15
+00:01:19,575 --> 00:01:26,735
+Sophie: Leurs idées circulent, se répondent, parfois s'opposent, mais nourrissent un même mouvement intellectuel européen.
+
+16
+00:01:28,250 --> 00:01:30,370
+Voix off: La diffusion des idées nouvelles
+
+17
+00:01:30,670 --> 00:01:34,910
+Nicolas: Ces idées ne restent pas enfermées dans les livres savants, elles se diffusent largement.
+
+18
+00:01:35,210 --> 00:01:42,600
+Sophie: L'Encyclopédie de Diderot et d'Alembert rassemble les savoirs de l'époque et les rend accessibles à un plus large public.
+
+19
+00:01:43,600 --> 00:01:48,020
+Nicolas: Les cafés parisiens deviennent des lieux de débat, où circulent gazettes et pamphlets.
+
+20
+00:01:48,320 --> 00:01:54,760
+Voix off: Malgré la censure royale, les livres interdits circulent sous le manteau, recopiés et diffusés clandestinement.
+
+21
+00:01:55,060 --> 00:01:59,420
+Sophie: C'est ainsi que les idées des Lumières gagnent peu à peu toute l'Europe.
+
+22
+00:01:59,720 --> 00:02:01,670
+Nicolas: Merci d'avoir suivi cette première partie.
+
+23
+00:02:01,970 --> 00:02:05,210
+Sophie: Rendez-vous dans le prochain épisode pour la suite.
